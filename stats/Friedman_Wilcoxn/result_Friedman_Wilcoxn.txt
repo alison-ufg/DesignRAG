@@ -1,0 +1,19 @@
+--- STEP 1: GLOBAL TEST (FRIEDMAN) ---
+Friedman Statistic: 78.344
+Global P-Value: 7.84990e-15
+
+Conclusion: Significant difference found among models. Proceeding to pairwise comparisons.
+
+--- STEP 2: PAIRWISE COMPARISON (WILCOXON) ---
+Comparison                | Stat W   | Raw P-Val  | Corrected P  | Significant?
+--------------------------------------------------------------------------------
+GPT_Mini vs FTS           | 2.0      | 0.00003    | 0.00016      | YES (Multimodal wins)
+Gemini_Flash vs FTS       | 0.0      | 0.00001    | 0.00012      | YES (Multimodal wins)
+GPT_Pro vs FTS            | 1.5      | 0.00002    | 0.00014      | YES (Multimodal wins)
+Gemini_Pro vs FTS         | 0.0      | 0.00001    | 0.00012      | YES (Multimodal wins)
+Gemini_3_Pro vs FTS       | 2.0      | 0.00001    | 0.00012      | YES (Multimodal wins)
+GPT_Mini vs Pure_RAG      | 3.0      | 0.00988    | 0.01481      | YES (Multimodal wins)
+Gemini_Flash vs Pure_RAG  | 1.5      | 0.00360    | 0.01442      | YES (Multimodal wins)
+GPT_Pro vs Pure_RAG       | 3.0      | 0.00592    | 0.01481      | YES (Multimodal wins)
+Gemini_Pro vs Pure_RAG    | 0.0      | 0.00223    | 0.01114      | YES (Multimodal wins)
+Gemini_3_Pro vs Pure_RAG  | 4.5      | 0.00494    | 0.01481      | YES (Multimodal wins)

@@ -1,0 +1,4 @@
+--- CALCULATING AGREEMENT (FLEISS' KAPPA) ---
+
+Fleiss' Kappa Score: 0.2630
+Interpretation: Moderate Agreement

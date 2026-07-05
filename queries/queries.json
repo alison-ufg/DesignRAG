@@ -1,0 +1,226 @@
+{
+  "queries": [
+    {
+      "id": 1,
+      "query_en": "button",
+      "query_pt_br": "botão",
+      "category": "keyword",
+      "answer_key": [
+        1429, 1428, 1438, 1837, 1433, 1440, 1444, 1439, 1815, 1844, 1841, 1441,
+        1843, 1435, 1434, 1835, 1836, 1845, 1427, 1436, 1842, 1839, 1430, 1431,
+        1838, 1437, 1442, 1432, 1840, 1814, 1443, 1818
+      ]
+    },
+    {
+      "id": 2,
+      "query_en": "text input",
+      "query_pt_br": "text input",
+      "category": "keyword",
+      "answer_key": [1733, 1417, 1419, 1421, 1418, 1420, 1422, 1787]
+    },
+    {
+      "id": 3,
+      "query_en": "card",
+      "query_pt_br": "card",
+      "category": "keyword",
+      "answer_key": [
+        1414, 1397, 1462, 1463, 1408, 1413, 1411, 1412, 1980, 1409, 1410, 1398,
+        1981, 1399, 1407, 1400
+      ]
+    },
+    {
+      "id": 4,
+      "query_en": "modal",
+      "query_pt_br": "modal",
+      "category": "keyword",
+      "answer_key": [1988, 952, 951, 1600, 1409, 1407, 1601]
+    },
+    {
+      "id": 5,
+      "query_en": "checkbox",
+      "query_pt_br": "checkbox",
+      "category": "keyword",
+      "answer_key": [1897, 1899, 1898, 1896, 1894, 1895]
+    },
+    {
+      "id": 6,
+      "query_en": "dropdown",
+      "query_pt_br": "dropdown",
+      "category": "keyword",
+      "answer_key": [1802, 1807, 1804, 1803, 1805, 1806]
+    },
+    {
+      "id": 7,
+      "query_en": "alert",
+      "query_pt_br": "alerta",
+      "category": "keyword",
+      "answer_key": [1600, 1410, 1411, 1407, 1409, 1601]
+    },
+    {
+      "id": 8,
+      "query_en": "switch",
+      "query_pt_br": "switch",
+      "category": "keyword",
+      "answer_key": [1821, 1820, 1822, 1819]
+    },
+    {
+      "id": 9,
+      "query_en": "radio field",
+      "query_pt_br": "radio field",
+      "category": "keyword",
+      "answer_key": [1394, 1396, 1395, 1393]
+    },
+    {
+      "id": 10,
+      "query_en": "avatar",
+      "query_pt_br": "avatar",
+      "category": "keyword",
+      "answer_key": [1654, 1657, 1656, 1652, 1649, 1651, 1979, 1608, 1609]
+    },
+    {
+      "id": 11,
+      "query_en": "something to click to proceed",
+      "query_pt_br": "algo para clicar para prosseguir",
+      "category": "generic",
+      "answer_key": [1744, 1743, 1745, 1577, 1578]
+    },
+    {
+      "id": 12,
+      "query_en": "place to type email",
+      "query_pt_br": "lugar para digitar email",
+      "category": "generic",
+      "answer_key": [1984, 1417, 1419, 1986, 1983, 1991, 1990]
+    },
+    {
+      "id": 13,
+      "query_en": "container for content",
+      "query_pt_br": "container para conteúdo",
+      "category": "generic",
+      "answer_key": [
+        1462, 1600, 1414, 1989, 1397, 1991, 1463, 1980, 1983, 1400, 1410, 1411,
+        1398, 1982, 1986, 1990, 1399, 1413
+      ]
+    },
+    {
+      "id": 14,
+      "query_en": "tag yellow",
+      "query_pt_br": "tag amarela",
+      "category": "generic",
+      "answer_key": [1700, 1699, 1693, 1701]
+    },
+    {
+      "id": 15,
+      "query_en": "select multiple options",
+      "query_pt_br": "selecionar múltiplas opções",
+      "category": "generic",
+      "answer_key": [1802, 1804, 1806, 1978, 1805, 1803]
+    },
+    {
+      "id": 16,
+      "query_en": "choose one from a list",
+      "query_pt_br": "escolher um de uma lista",
+      "category": "generic",
+      "answer_key": [
+        1993, 1978, 1415, 1772, 1987, 1773, 1989, 1805, 1802, 1804, 1807
+      ]
+    },
+    {
+      "id": 17,
+      "query_en": "warning message box",
+      "query_pt_br": "caixa de mensagem de aviso",
+      "category": "generic",
+      "answer_key": [1600, 1410, 1411, 1601, 1988, 952, 951, 1409, 1407, 1408]
+    },
+    {
+      "id": 18,
+      "query_en": "on off",
+      "query_pt_br": "ligado desligado",
+      "category": "generic",
+      "answer_key": [1821, 1820, 1822, 1819]
+    },
+    {
+      "id": 19,
+      "query_en": "enumerated pagination component",
+      "query_pt_br": "componente de paginação enumerado",
+      "category": "generic",
+      "answer_key": [1461, 1987, 1680, 1678]
+    },
+    {
+      "id": 20,
+      "query_en": "user profile image",
+      "query_pt_br": "imagem de perfil do usuário",
+      "category": "generic",
+      "answer_key": [1654, 1657, 1656, 1652, 1649, 1651, 1979, 1608, 1609]
+    },
+    {
+      "id": 21,
+      "query_en": "a red button for a dangerous delete action",
+      "query_pt_br": "um botão vermelho para uma ação perigosa de deletar",
+      "category": "specific",
+      "answer_key": [1837, 1694, 1839, 1841, 1843, 1835, 1845, 1836, 1840]
+    },
+    {
+      "id": 22,
+      "query_en": "a red alert box for important warnings",
+      "query_pt_br": "uma caixa de alerta vermelho para avisos importantes",
+      "category": "specific",
+      "answer_key": [1601, 1804, 1806]
+    },
+    {
+      "id": 23,
+      "query_en": "a text input field with an error state",
+      "query_pt_br": "um campo de entrada de texto com estado de erro",
+      "category": "specific",
+      "answer_key": [1804, 1806, 1418, 1788, 1420, 1787]
+    },
+    {
+      "id": 24,
+      "query_en": "a product card with image and description text",
+      "query_pt_br": "um card de produto com imagem e texto de descrição",
+      "category": "specific",
+      "answer_key": [1414, 1412, 1981, 1408, 1413]
+    },
+    {
+      "id": 25,
+      "query_en": "a modal dialog to confirm changes",
+      "query_pt_br": "um diálogo modal para confirmar alterações",
+      "category": "specific",
+      "answer_key": [1600, 1988, 952, 951, 1409, 1407]
+    },
+    {
+      "id": 26,
+      "query_en": "a primary black button for submitting forms",
+      "query_pt_br": "um botão preto primário para enviar formulários",
+      "category": "specific",
+      "answer_key": [1428, 1435, 1437, 1427]
+    },
+    {
+      "id": 27,
+      "query_en": "a search bar input to find content",
+      "query_pt_br": "uma barra de entrada de pesquisa para encontrar conteúdo",
+      "category": "specific",
+      "answer_key": [1736, 1734, 1733, 1417, 1419, 1735, 1422]
+    },
+    {
+      "id": 28,
+      "query_en": "a divider line to separate sections",
+      "query_pt_br": "uma linha divisora para separar seções",
+      "category": "specific",
+      "answer_key": [1994]
+    },
+    {
+      "id": 29,
+      "query_en": "an accordion component with title",
+      "query_pt_br": "um componente de acordion com titulo",
+      "category": "specific",
+      "answer_key": [1887, 1992, 1886]
+    },
+    {
+      "id": 30,
+      "query_en": "card component for displaying product prices.",
+      "query_pt_br": "componente de card para colocar preços de produtos",
+      "category": "specific",
+      "answer_key": [1400, 1397, 1398, 1981, 1399]
+    }
+  ]
+}

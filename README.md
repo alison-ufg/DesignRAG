@@ -53,9 +53,14 @@ To illustrate the pipeline and response time in a realistic usage scenario, we r
 2. The parallel inference comparing unimodal baselines with multimodal LLMs.
 3. The rendering of the Top-5 in paired columns, highlighting the visual compliance check (Green/Red) against the *Ground Truth*.
 
-<video src="demo/designrag.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag. <a href="demo/designrag.mp4">Click here to download the video</a>.
+<video src="demo/presentation.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag. <a href="demo/presentation.mp4">Click here to download the video</a>.
 </video>
+
+## Second video
+<a href="demo/designrag.mp4">
+
+Click here to watch the second video containing the results of the 30 questions.</a>.
 
 ---
 

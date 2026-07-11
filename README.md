@@ -54,18 +54,20 @@ To illustrate the pipeline and response time in a realistic usage scenario, we r
 2. The parallel inference comparing unimodal baselines with multimodal LLMs.
 3. The rendering of the Top-5 in paired columns, highlighting the visual compliance check (Green/Red) against the *Ground Truth*.
 
-<video tabindex="-1" preload="metadata" src="https://zenodo.org/records/21313392/files/novo_presentation.mp4?preview=1" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag. <a href="demo/novo_presentation.mp4">Click here to download the video</a>.
-</video>
 
-To view the full system demonstration video,
+![DesignRAG demo](/demo/designrag.png)
 
-<!-- [![click here to access the anonymous Zenodo repository](https://zenodo.org/records/21313392/files/novo_presentation.mp4?preview=1)](demo/novo_presentation.mp4) -->
-
-## Second video
-<a href="demo/designrag.mp4">
-
-Click here to watch the second video containing the results of the 30 questions.</a>.
+<p align="center">
+  <b>🎥 System Demonstration Videos</b><br><br>
+  <font size="4">
+  <b>💻 Desktop / Download (Repository)</b><br>
+  <a href="demo/1_presentation.mp4">Video 1: Introduction to DesignRAG</a> &nbsp;|&nbsp; 
+  <a href="demo/2_designrag.mp4">Video 2: Complete results for the 30 questions</a><br><br>
+  <b>📱 Mobile / Streaming (Zenodo)</b><br>
+  <a href="https://zenodo.org/records/21313392?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImUyMjg3N2M3LTE3M2QtNGE3YS1hNjBlLTEwOTA5YTUyOGNlZiIsImRhdGEiOnt9LCJyYW5kb20iOiJlNDAyM2E5YmUzY2MzOTliZWJiNmZiZGFiYWJlZTNiMiJ9.kpQBIo1Nhfppt9ccHN0J9VDyA1iv2F3a7sj9z2zzNoToehCejr4W5mQmWdesN9SOZVdEG46hWC4ehz_Wa5jp5g&preview_file=1_presentation.mp4">Video 1: Introduction to DesignRAG</a> &nbsp;|&nbsp; 
+    <a href="https://zenodo.org/records/21313392?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImUyMjg3N2M3LTE3M2QtNGE3YS1hNjBlLTEwOTA5YTUyOGNlZiIsImRhdGEiOnt9LCJyYW5kb20iOiJlNDAyM2E5YmUzY2MzOTliZWJiNmZiZGFiYWJlZTNiMiJ9.kpQBIo1Nhfppt9ccHN0J9VDyA1iv2F3a7sj9z2zzNoToehCejr4W5mQmWdesN9SOZVdEG46hWC4ehz_Wa5jp5g&preview_file=2_designrag.mp4">Video 2: Complete results for the 30 questions</a>
+  </font>
+</p>
 
 ---
 

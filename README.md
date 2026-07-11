@@ -82,6 +82,10 @@ Evaluators can audit the math and p-values reported in the paper by running the 
 
 **Terminal Execution:**
 ```bash
+# Create and activate a virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
 # Install analysis dependencies
 pip install -r stats/requirements.txt
 

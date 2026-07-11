@@ -58,9 +58,9 @@ To illustrate the pipeline and response time in a realistic usage scenario, we r
   Your browser does not support the video tag. <a href="demo/novo_presentation.mp4">Click here to download the video</a>.
 </video>
 
-To view the full system demonstration video, [click here to access the anonymous Zenodo repository] (demo/novo_presentation.mp4).
+To view the full system demonstration video,
 
-To view the full system demonstration video, [click here to access the anonymous Zenodo repository] demo/novo_presentation.mp4.
+[click here to access the anonymous Zenodo repository](demo/novo_presentation.mp4).
 
 ## Second video
 <a href="demo/designrag.mp4">

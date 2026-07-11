@@ -55,16 +55,13 @@ To illustrate the pipeline and response time in a realistic usage scenario, we r
 3. The rendering of the Top-5 in paired columns, highlighting the visual compliance check (Green/Red) against the *Ground Truth*.
 
 
-![DesignRAG demo](/demo/designrag.png)
-
-<p align="center">
-  <b>🎥 System Demonstration Videos</b><br><br>
+<p align="left">
+  <br>
   <font size="4">
-  <b>💻 Desktop / Download (Repository)</b><br>
-  <a href="demo/1_presentation.mp4">Video 1: Introduction to DesignRAG</a> &nbsp;|&nbsp; 
-  <a href="demo/2_designrag.mp4">Video 2: Complete results for the 30 questions</a><br><br>
-  <b>📱 Mobile / Streaming (Zenodo)</b><br>
-  <a href="https://zenodo.org/records/21313392?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImUyMjg3N2M3LTE3M2QtNGE3YS1hNjBlLTEwOTA5YTUyOGNlZiIsImRhdGEiOnt9LCJyYW5kb20iOiJlNDAyM2E5YmUzY2MzOTliZWJiNmZiZGFiYWJlZTNiMiJ9.kpQBIo1Nhfppt9ccHN0J9VDyA1iv2F3a7sj9z2zzNoToehCejr4W5mQmWdesN9SOZVdEG46hWC4ehz_Wa5jp5g&preview_file=1_presentation.mp4">Video 1: Introduction to DesignRAG</a> &nbsp;|&nbsp; 
+  <b>🎥 DesignRAG demonstration videos on Zenodo</b>
+  <br><br>
+    <a href="https://zenodo.org/records/21313392?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImUyMjg3N2M3LTE3M2QtNGE3YS1hNjBlLTEwOTA5YTUyOGNlZiIsImRhdGEiOnt9LCJyYW5kb20iOiJlNDAyM2E5YmUzY2MzOTliZWJiNmZiZGFiYWJlZTNiMiJ9.kpQBIo1Nhfppt9ccHN0J9VDyA1iv2F3a7sj9z2zzNoToehCejr4W5mQmWdesN9SOZVdEG46hWC4ehz_Wa5jp5g&preview_file=1_presentation.mp4">Video 1: Introduction to DesignRAG</a>
+  <br><br>
     <a href="https://zenodo.org/records/21313392?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImUyMjg3N2M3LTE3M2QtNGE3YS1hNjBlLTEwOTA5YTUyOGNlZiIsImRhdGEiOnt9LCJyYW5kb20iOiJlNDAyM2E5YmUzY2MzOTliZWJiNmZiZGFiYWJlZTNiMiJ9.kpQBIo1Nhfppt9ccHN0J9VDyA1iv2F3a7sj9z2zzNoToehCejr4W5mQmWdesN9SOZVdEG46hWC4ehz_Wa5jp5g&preview_file=2_designrag.mp4">Video 2: Complete results for the 30 questions</a>
   </font>
 </p>

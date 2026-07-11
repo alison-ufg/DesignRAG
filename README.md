@@ -54,7 +54,7 @@ To illustrate the pipeline and response time in a realistic usage scenario, we r
 2. The parallel inference comparing unimodal baselines with multimodal LLMs.
 3. The rendering of the Top-5 in paired columns, highlighting the visual compliance check (Green/Red) against the *Ground Truth*.
 
-<video src="https://zenodo.org/records/21313392/files/novo_presentation.mp4?preview=1" controls="controls" style="max-width: 100%;">
+<video tabindex="-1" preload="metadata" src="demo/novo_presentation.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag. <a href="demo/novo_presentation.mp4">Click here to download the video</a>.
 </video>
 

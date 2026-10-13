@@ -1,5 +1,7 @@
 # Replication Package: DesignRAG
 
+### DOI: https://doi.org/10.5281/zenodo.23347166
+
 Welcome to the anonymous replication package for the paper submitted for peer review: **"Improving the Quality of AI-Generated User Interfaces through Multimodal Retrieval of Proprietary Design System Artifacts"**.
 
 ⚠️ **Note on Intellectual Property:** The source code of the DesignRAG *backend* inference engine and the Figma integration microservices developed in this research are subject to Intellectual Property (IP) agreements and industrial secrecy, and cannot be made publicly available. 
